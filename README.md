@@ -1,0 +1,2 @@
+MyBeanJar-Developer-info
+========================
