@@ -2,6 +2,15 @@ MyBeanJar-Developer-info
 ========================
 MyBeanJar- Developer/Publisher requirements
 
+MyBeanJar 'Rewardware'  is a relevant reward redeemable at the right time & place.  Game players win real value coupons as rewards for achievements, delivered right into a mobile wallet. The wallet reminds the player later so it won't interrupt their gameflow at that moment. 
+
+Here's links to the SDKs and docs:
+Android SDK: https://github.com/beanjar/MyBeanJar-SDK--Java-Android
+HTML5 SDK: https://github.com/beanjar/MyBeanJar-SDK--Javascript--HTML5
+iOS SDK: https://github.com/beanjar/MyBeanJar-SDK-iOS
+Cross-Platform Wallet App: https://github.com/beanjar/MyBeanJar-App--Cross-Platform
+
+
 __________________ Publisher name
 
 __________________ Publisher billing address
