@@ -1,8 +1,16 @@
 MyBeanJar-Developer-info
 ========================
-MyBeanJar- Developer/Publisher requirements
 
 MyBeanJar 'Rewardware'  is a relevant reward redeemable at the right time & place.  Game players win real value coupons as rewards for achievements, delivered right into a mobile wallet. The wallet reminds the player later so it won't interrupt their gameflow at that moment. 
+
+MyBeanJar’s plug ‘n play RewardWare gives publishers a new way to mine additional resources out of their content. RewardWare captures and extends the excitement of winning, and creates a new layer of brand engagement and revenue.
+
+MyBeanJar (MBJ) is the first all-in-one reward delivery and mobile redemption wallet.  Players win real targeted offers for achievements sponsored by popular brands, delivered into a simple mobile wallet app that reminds them to cash in at the right time and place.
+
+MyBeanJar extends the ‘lean-forward’ feeling of winning, and helps publishers earn incremental income, acquire new users, and cross-promote their titles to others in the MBJ network. As RewardWare makes the content stickier, it increases opportunities to monetize from other ad schemes and in-app purchases as well. MBJ continues to engage postgame, prompting incentivized actions that sustain customer connections with brands and content.
+
+
+MyBeanJar- Developer/Publisher requirements
 
 Here's links to the SDKs and docs:
 
@@ -14,7 +22,8 @@ iOS SDK: https://github.com/beanjar/MyBeanJar-SDK-iOS
 
 Cross-Platform Wallet App: https://github.com/beanjar/MyBeanJar-App--Cross-Platform
 
-
+MyBeanJar- Developer/Publisher requirements
+===========================================
 
 __________________ Publisher name
 
