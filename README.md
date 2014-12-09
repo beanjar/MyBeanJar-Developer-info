@@ -9,6 +9,7 @@ MyBeanJar (MBJ) is the first all-in-one reward delivery and mobile redemption wa
 
 MyBeanJar extends the ‘lean-forward’ feeling of winning, and helps publishers earn incremental income, acquire new users, and cross-promote their titles to others in the MBJ network. As RewardWare makes the content stickier, it increases opportunities to monetize from other ad schemes and in-app purchases as well. MBJ continues to engage postgame, prompting incentivized actions that sustain customer connections with brands and content.
 
+![infographic](https://cloud.githubusercontent.com/assets/4870853/5361027/7f5841fe-7f96-11e4-9493-1a22544435d5.png)
 
 MyBeanJar- Developer/Publisher requirements
 
